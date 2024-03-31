@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##
+![0 wO81Bodh1Ifqdse8](https://github.com/TyereeTinker/TyereeTinker/assets/71784154/74a1b2ea-8238-43f4-a421-6ec0e95ed899)
+##
+
 <!--
 **TyereeTinker/TyereeTinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
