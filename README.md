@@ -2,7 +2,7 @@
 ##
 Tech Stacks:
 
-C# Python Javascript
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF" alt="My Tech Stack" />
 ##
 ![0 wO81Bodh1Ifqdse8](https://github.com/TyereeTinker/TyereeTinker/assets/71784154/74a1b2ea-8238-43f4-a421-6ec0e95ed899)
 ##
