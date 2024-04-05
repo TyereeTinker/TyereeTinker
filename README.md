@@ -2,7 +2,7 @@
 Email: tyereetinker31@gmail.com
 ##
 
-💻  My Tech Stack:
+💻  My Tech Stack: <br\>
 ![5968381](https://github.com/TyereeTinker/TyereeTinker/assets/71784154/a7286ead-ab41-4164-b053-8b096835d97f)
 ![5968350](https://github.com/TyereeTinker/TyereeTinker/assets/71784154/ea0078a1-6109-4e43-8b5b-286f27557b1c)
 
