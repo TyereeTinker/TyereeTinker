@@ -6,6 +6,10 @@ Email: tyereetinker31@gmail.com
 
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/a7286ead-ab41-4164-b053-8b096835d97f" width="50" />
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/80b5ae99-c8cf-40b6-9665-ddeb5ce2874e" width="50" />
+<br/>
+<img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/b3cd7cd5-6c0c-4586-bf4f-63fd3ea3b67e" width="50" />
+
+
 
 
 <!--
