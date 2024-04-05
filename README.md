@@ -1,4 +1,4 @@
-###  👋Good day, My name is Tyeree Tinker, a Software Developer.
+###  👋Hi, my name is Tyeree Tinker, a Software Developer.
 Email: tyereetinker31@gmail.com
 ##
 
