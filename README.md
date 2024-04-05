@@ -2,7 +2,7 @@
 Email: tyereetinker31@gmail.com
 ##
 
-<img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/38e2a703-305b-4741-80d5-8b8f21da1390" width="25" /> My Tech Stack: <br/> <br/>
+<img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/38e2a703-305b-4741-80d5-8b8f21da1390" width="20" /> My Tech Stack: <br/> <br/>
 
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/a7286ead-ab41-4164-b053-8b096835d97f" width="50" />
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/b3cd7cd5-6c0c-4586-bf4f-63fd3ea3b67e" width="50" />
