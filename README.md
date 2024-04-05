@@ -1,4 +1,4 @@
-###  👋Good day, My name is Tyeree Tinker, a software Developer.
+###  👋Good day, My name is Tyeree Tinker, a Software Developer.
 Email: tyereetinker31@gmail.com
 ##
 
@@ -14,6 +14,11 @@ Email: tyereetinker31@gmail.com
 <br/><br/>
 
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/80b5ae99-c8cf-40b6-9665-ddeb5ce2874e" width="50" />
+<img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/afcbcb61-e68f-4906-9d8d-3b23736cc700" width="50" />
+<img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/eaf9cfc1-9e35-41e0-94b9-91b6c931e1bc" width="50" />
+
+
+
 
 
 
