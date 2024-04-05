@@ -3,8 +3,8 @@ Email: tyereetinker31@gmail.com
 ##
 
 💻  My Tech Stack:
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<i class="devicon-python-plain colored"></i>
+![5968381](https://github.com/TyereeTinker/TyereeTinker/assets/71784154/a7286ead-ab41-4164-b053-8b096835d97f)
+
 <!--
 **TyereeTinker/TyereeTinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
