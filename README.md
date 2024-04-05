@@ -1,8 +1,10 @@
-###  👋Good day, My name is Tyeree Tinker, A software Developer mainly involved in Backend Development.
+###  👋Good day, My name is Tyeree Tinker, a software Developer.
 Email: tyereetinker31@gmail.com
-
 ##
 
+💻  My Tech Stack:
+
+<i class="devicon-python-plain colored"></i>
 <!--
 **TyereeTinker/TyereeTinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
