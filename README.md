@@ -1,6 +1,7 @@
-###  👋
+###  👋Good day, My name is Tyeree Tinker, A software Developer mainly involved in Backend Development.
+    📫 How to reach me: tyereetinker31@gmail.com
 ##
-![0 wO81Bodh1Ifqdse8](https://github.com/TyereeTinker/TyereeTinker/assets/71784154/74a1b2ea-8238-43f4-a421-6ec0e95ed899)
+
 ##
 
 <!--
