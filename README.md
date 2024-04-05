@@ -20,7 +20,7 @@ Email: tyereetinker31@gmail.com
 <br/><br/>
 
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/42171333-6ebe-4b69-ba09-41027be63670" width="50" />
-<img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/ea4bfc8b-92bd-4846-925e-0c8d2d4c8107" width="50" />
+<img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/bcdd8a75-411e-4ae7-89f1-22bac039ac58" width="50" />
 
 
 
