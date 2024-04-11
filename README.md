@@ -1,4 +1,4 @@
-###  👋Hi, my name is Tyeree Tinker, a Software Developer.
+###  👋Hi, my name is Tyeree Tinker, a FullStack Software Developer.
 Email: tyereetinker31@gmail.com
 ##
 
