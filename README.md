@@ -11,13 +11,13 @@ Email: tyereetinker31@gmail.com
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/538e582e-60ce-47b4-93e4-e03bdb88b3b9" width="60" />
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/2d8ca613-8f03-404b-ad94-3cbed37d3888" width="50" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/80b5ae99-c8cf-40b6-9665-ddeb5ce2874e" width="50" />
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/afcbcb61-e68f-4906-9d8d-3b23736cc700" width="50" />
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/eaf9cfc1-9e35-41e0-94b9-91b6c931e1bc" width="50" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/42171333-6ebe-4b69-ba09-41027be63670" width="50" />
 <img src="https://github.com/TyereeTinker/TyereeTinker/assets/71784154/bcdd8a75-411e-4ae7-89f1-22bac039ac58" width="50" />
